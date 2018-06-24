@@ -1,0 +1,7 @@
+C:\Users\XIII\source\repos\phone_bill_cal\phone_bill_cal\bin\Debug\phone_bill_cal.exe.config
+C:\Users\XIII\source\repos\phone_bill_cal\phone_bill_cal\bin\Debug\phone_bill_cal.exe
+C:\Users\XIII\source\repos\phone_bill_cal\phone_bill_cal\bin\Debug\phone_bill_cal.pdb
+C:\Users\XIII\source\repos\phone_bill_cal\phone_bill_cal\obj\Debug\phone_bill_cal.csprojResolveAssemblyReference.cache
+C:\Users\XIII\source\repos\phone_bill_cal\phone_bill_cal\obj\Debug\phone_bill_cal.csproj.CoreCompileInputs.cache
+C:\Users\XIII\source\repos\phone_bill_cal\phone_bill_cal\obj\Debug\phone_bill_cal.exe
+C:\Users\XIII\source\repos\phone_bill_cal\phone_bill_cal\obj\Debug\phone_bill_cal.pdb
